@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\bin\Debug\net8.0\laba_1st.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\bin\Debug\net8.0\laba_1st.deps.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\bin\Debug\net8.0\laba_1st.runtimeconfig.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\bin\Debug\net8.0\laba_1st.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\bin\Debug\net8.0\laba_1st.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\refint\laba_1st.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\laba_1st.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\laba_1st\obj\Debug\net8.0\ref\laba_1st.dll
