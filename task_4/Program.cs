@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection;
 
 class Program
@@ -11,13 +11,14 @@ class Program
         public MyArrayList()
         {
             size = 0;
+            elementData = new T[1];
         }
         public MyArrayList(T[] a)
         {
             size = a.Length;
             elementData = new T[size];
             for (int i = 0; i < size; i++) elementData[i] = a[i];
-                
+
         }
         public MyArrayList(int capacity)
         {
@@ -29,7 +30,7 @@ class Program
         {
             if (size == elementData.Length)
             {
-                T[] newArray = new T[(int)(size * 1.5 + 1)];
+                T[] newArray = new T[(int)(elementData.Length * 1.5 + 1)];
                 int i = 0;
                 foreach (T a in elementData) newArray[i++] = a;
                 elementData = newArray;
@@ -104,7 +105,7 @@ class Program
             {
                 Console.WriteLine("Not enough capacity for the dynamic array");
                 return null;
-            } 
+            }
             if (a == null) a = new T[this.size];
             for (int i = 0; i < a.Length; i++) a[i] = elementData[i];
             return a;
@@ -112,7 +113,7 @@ class Program
 
         public void Add(int index, T e)
         {
-            if (index <0 || index > size) throw new ArgumentOutOfRangeException("index");
+            if (index < 0 || index > size) throw new ArgumentOutOfRangeException("index");
             if (size == elementData.Length)
             {
                 T[] newArray = new T[size + 1];
@@ -180,21 +181,19 @@ class Program
             }
         }
     }
-    public static void Main(string[] args)
+
+public static void Main(string[] args)
     {
-        int[] y = { 5, 6, 7 };
+        int[] y = { 5, 9, 2, 6, 3, 1, 1, 1, 7, 1, 34, 4, 3, 2 };
         MyArrayList<int> array = new(y);
         array.Print();
         Console.WriteLine();
         int x = array.size;
         //Console.WriteLine(x);
-        int[] arr = { 1, 2, 3 };
-        array.AddAll(arr);
+        int[] arr = array.SubList(4, 10);
+        array.Set(6, 15555);
+        //Console.WriteLine(array.Remove(3));
         array.Print();
-        Console.WriteLine();
-        Console.WriteLine(array.Contains(7));
-        Console.WriteLine(array.ContainsAll(arr));
-        array.RetainAll(arr);
-        array.Print();
+        foreach(int i in arr) Console.Write(i + " ");
     }
 }
