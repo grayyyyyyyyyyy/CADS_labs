@@ -4,9 +4,9 @@ class Program
 {
     public class MyVector<T>
     {
-        public T[] elementData;
-        public int elementCount;
-        public int capacityIncrement;
+        T[] elementData;
+        int elementCount;
+        int capacityIncrement;
 
         public MyVector(int initialCapacity, int capacityIncr)
         {
@@ -199,13 +199,15 @@ class Program
             for (int i = begin; i < end; i++) RemoveElement(begin);
         }
 
+        public override string ToString()
+        {
+            string s = "";
+            for (int i = 0; i < size; i++) s += elementData[i] + " ";
+            return s;
+        }
         public void Print()
         {
-            if (elementCount != 0)
-            {
-                for (int i = 0; i < elementCount; i++) Console.Write(elementData[i] + " ");
-                Console.WriteLine();
-            }
+            Console.WriteLine(this.ToString());
         }
     }
     public static void Main(string[] args)
