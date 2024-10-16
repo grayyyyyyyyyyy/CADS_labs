@@ -5,8 +5,8 @@ class Program
 {
     public class MyArrayList<T>
     {
-        public int size;
-        public T[] elementData;
+        int size;
+        T[] elementData;
 
         public MyArrayList()
         {
@@ -172,13 +172,15 @@ class Program
             return a;
         }
 
+        public override string ToString()
+        {
+            string s = "";
+            for (int i = 0; i < size; i++) s += elementData[i] + " ";
+            return s;
+        }
         public void Print()
         {
-            if (size != 0)
-            {
-                for (int i = 0; i < size; i++) Console.Write(elementData[i] + " ");
-                Console.WriteLine();
-            }
+            Console.WriteLine(this.ToString());
         }
     }
 
@@ -194,6 +196,5 @@ public static void Main(string[] args)
         array.Set(6, 15555);
         //Console.WriteLine(array.Remove(3));
         array.Print();
-        foreach(int i in arr) Console.Write(i + " ");
     }
 }
