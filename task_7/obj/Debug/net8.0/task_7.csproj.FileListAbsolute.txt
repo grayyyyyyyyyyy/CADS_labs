@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\bin\Debug\net8.0\task_7.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\bin\Debug\net8.0\task_7.deps.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\bin\Debug\net8.0\task_7.runtimeconfig.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\bin\Debug\net8.0\task_7.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\bin\Debug\net8.0\task_7.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\refint\task_7.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\task_7.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_7\obj\Debug\net8.0\ref\task_7.dll
