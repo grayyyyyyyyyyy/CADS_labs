@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\bin\Debug\net8.0\task_9.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\bin\Debug\net8.0\task_9.deps.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\bin\Debug\net8.0\task_9.runtimeconfig.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\bin\Debug\net8.0\task_9.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\bin\Debug\net8.0\task_9.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\refint\task_9.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\task_9.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_9\obj\Debug\net8.0\ref\task_9.dll

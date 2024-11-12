@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task_9": {
+      "commandName": "Project",
+      "commandLineArgs": "a=5\r\nb=10\r\nc=3"
+    }
+  }
+}
