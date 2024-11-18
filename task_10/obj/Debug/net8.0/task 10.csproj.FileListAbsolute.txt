@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\bin\Debug\net8.0\task 10.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\bin\Debug\net8.0\task 10.deps.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\bin\Debug\net8.0\task 10.runtimeconfig.json
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\bin\Debug\net8.0\task 10.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\bin\Debug\net8.0\task 10.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\refint\task 10.dll
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\task 10.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_10\obj\Debug\net8.0\ref\task 10.dll
