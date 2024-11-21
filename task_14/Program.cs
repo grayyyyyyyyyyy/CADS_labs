@@ -203,7 +203,39 @@
     {
         static void Main(string[] args)
         {
-
+            int[] array = { 1, 123, 222, -6, -4, 4, 2 };
+            MyArrayDeque<int> deque = new MyArrayDeque<int>(array);
+            deque.Print();
+            deque.Add(26);
+            deque.Print();
+            deque.AddAll(array);
+            deque.Print();
+            deque.Clear();
+            deque.Print();
+            Console.WriteLine(deque.IsEmpty());
+            Console.WriteLine(deque.Contains(123));
+            deque.AddAll(array);
+            Console.WriteLine(deque.Contains(123));
+            Console.WriteLine(deque.ContainsAll(array));
+            deque.Remove(4);
+            deque.Print();
+            int[] array2 = { 123, 4, -6 };
+            deque.RemoveAll(array2);
+            deque.Print();
+            int[] array3 = {1, 222, 2, 456, 29 };
+            deque.RetainAll(array3);
+            deque.Print();
+            Console.WriteLine(deque.Size());
+            array3 = deque.ToArray();
+            foreach (int i in array3) Console.Write(i + " "); Console.WriteLine();
+            int[] array4 = { 1, 2, 3 } ;
+            deque.ToArray(array4);
+            foreach (int i in array4) Console.Write(i + " "); Console.WriteLine();
+            Console.WriteLine(deque.Element());
+            Console.WriteLine(deque.Offer(43));
+            Console.WriteLine(deque.Peek());
+            Console.WriteLine(deque.Poll());
+            deque.Print();
         }
     }
 }
