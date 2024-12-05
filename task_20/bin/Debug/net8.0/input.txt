@@ -1,0 +1,8 @@
+asfadgadg
+int a = 111;
+double b = 54.237;
+int c = 563;
+int d = 76542;
+float task_20 = 4.56008;
+int d = 123;
+int one = 1;
