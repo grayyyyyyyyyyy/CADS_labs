@@ -28,6 +28,6 @@ public class Program
         }
         sr.Close();
         IEnumerable<KeyValuePair<string, string>> ans = defs.EntrySet();
-        foreach(var pair in ans) Console.WriteLine($"{pair.Value.Split(' ')[0]} = {pair.Key} {pair.Value.Split(' ')[1]}");
+        foreach(var pair in ans) Console.WriteLine($"{pair.Value.Split(" ")[0]} = {pair.Key} {pair.Value.Split(" ")[1]}");
     }
 }
