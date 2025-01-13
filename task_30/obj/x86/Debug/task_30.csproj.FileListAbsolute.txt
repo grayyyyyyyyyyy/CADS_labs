@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\bin\Debug\CrosswordCreator.exe.config
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\bin\Debug\CrosswordCreator.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\bin\Debug\CrosswordCreator.pdb
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\task_30.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\CrosswordCreator_MarkupCompile.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\CrosswordCreator.g.resources
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\CrosswordCreator.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\task_30.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\task_30.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\CrosswordCreator.exe
+C:\Users\User\Desktop\учеба\3 семестр\КАиСД\task_30\obj\x86\Debug\CrosswordCreator.pdb
